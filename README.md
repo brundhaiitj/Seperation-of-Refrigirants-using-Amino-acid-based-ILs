@@ -50,5 +50,5 @@ This repository enables users to:
 
 ### How to Use
 1. You can directly download the documents attached.
-2. Or use the link given below:
+2. Or use the link given here:
    https://drive.google.com/drive/folders/1IssZJtxErfMf3bPRCXHOnSI4-o5Iamkx?usp=share_link
