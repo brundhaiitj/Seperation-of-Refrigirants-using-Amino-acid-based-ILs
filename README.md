@@ -5,7 +5,7 @@
 ### Introduction
 This repository presents a molecular simulation–based study aimed at evaluating the suitability of amino acid–based ionic liquids for refrigerant separation applications.
 
-The project focuses on understanding how refrigerants (R32, R125, and R134a) interact with ionic liquids formed using tri-n-butylphosphonium (TBP) and amino acid anions, supporting the development of energy-efficient and environmentally responsible separation technologies.
+The project focuses on understanding how refrigerants (R32, R125, and R134a) interact with ionic liquids formed using Tetrabutylphosphonium (TBP) and amino acid anions, supporting the development of energy-efficient and environmentally responsible separation technologies.
 
 ---
 
@@ -49,6 +49,6 @@ This repository enables users to:
 ---
 
 ### How to Use
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/refrigerant-ionic-liquid-analysis.git
+1. You can directly download the documents attached.
+2. Or use the link given below:
+   https://drive.google.com/drive/folders/1IssZJtxErfMf3bPRCXHOnSI4-o5Iamkx?usp=share_link
